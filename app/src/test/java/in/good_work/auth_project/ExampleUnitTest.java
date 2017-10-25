@@ -1,4 +1,4 @@
-package in.good_work.auth_progect;
+package in.good_work.auth_project;
 
 import org.junit.Test;
 

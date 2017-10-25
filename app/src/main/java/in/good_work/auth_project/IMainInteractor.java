@@ -1,4 +1,4 @@
-package in.good_work.auth_progect;
+package in.good_work.auth_project;
 
 import rx.Observable;
 
@@ -7,5 +7,5 @@ import rx.Observable;
  */
 
 public interface IMainInteractor {
-    <T extends Object> Observable<T> reguest(T t);
+    <T extends Object> Observable<T> reguest();
 }

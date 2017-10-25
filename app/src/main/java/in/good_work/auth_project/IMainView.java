@@ -1,4 +1,4 @@
-package in.good_work.auth_progect;
+package in.good_work.auth_project;
 
 /**
  * Created by AELEX on 25.10.2017.
